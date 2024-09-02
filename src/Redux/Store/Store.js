@@ -10,7 +10,7 @@ import paymentDetailsReducer from "../Slice/Payment/PaymentDetailsSlice.js";
 import withdrawalReducer from "../Slice/Withdrawal/WithdrawalSlice.js";
 import assetReducer from "../Slice/Asset/AssetSlice.js";
 import orderReducer from "../Slice/Order/OrderSlice.js";
-import watchlistReducer from "../Slice/Watchlist/WatchlistSlice.js";
+import watchlistReducer from "../Slice/WatchList/WatchListSlice.js";
 import searchCoinReducer from "../Slice/SearchCoin/SearchCoinSlice.js";
 export const store=configureStore({
     reducer: {
