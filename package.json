@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://github.com/Architsoni09/Trading-UI",
+  "homepage": "https://Architsoni09.github.io/Trading-UI",
   "name": "trading_ui",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
