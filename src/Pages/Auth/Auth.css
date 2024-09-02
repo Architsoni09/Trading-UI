@@ -1,0 +1,8 @@
+.authContainer {
+    background-image: url('src/assets/backgroundImage.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    min-width: 100%;
+}
