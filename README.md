@@ -82,8 +82,6 @@ We welcome contributions! Please follow the [contributing guidelines](CONTRIBUTI
 
 ## 📧 Contact
 
-For any questions or feedback, reach out to [Archit Soni](mailto:archit.soni@example.com).
+For any questions or feedback, reach out to [Archit Soni](mailto:archit.soni2908@gmail.com).
 
----
 
-Feel free to adjust any details to better fit your project or preferences!
