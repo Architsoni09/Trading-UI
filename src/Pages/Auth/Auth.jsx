@@ -3,13 +3,8 @@ import {SignUp} from "@/Pages/SignUp/SignUp.jsx";
 import {Button} from "@/components/ui/button.jsx";
 import {useNavigate} from "react-router-dom";
 import {ForgotPassword} from "@/Pages/ForgotPassword/ForgotPassword.jsx";
-import {LogIn} from "lucide-react";
 import {SignIn} from "@/Pages/SignIn/SignIn.jsx";
 import {useDispatch, useSelector} from "react-redux";
-import {testSelector} from "@/Redux/Slice/Auth/TestSlice.js";
-import {useEffect} from "react";
-import {test} from "@/Redux/AsyncThunk/Auth/TestAsyncThunk.js";
-import {clearState, signedUpUser} from "@/Redux/Slice/Auth/SignUpSlice.js";
 
 export const Auth = () => {
     const dispatch = useDispatch();
